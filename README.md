@@ -6,7 +6,7 @@ Senior Undergraduate Student at NIT Trichy
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [srivatsan6923@gmail.com](mailto:srivatsan6923@gmail.com)
-* 🤝  I'm open to collaborating on Medical Image Processing, Deep Learning, Computer Vision, NLP, Brain Computer Interfacing Research
+* 🤝  I'm open to collaborating on Medical Image Processing, Signal Processing, Deep Learning, Computer Vision, NLP, Brain Computer Interfacing Research
 
 ### Skills
 
