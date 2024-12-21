@@ -1,5 +1,4 @@
 ### 👋 Hi there, I'm Srivatsan Sarvesan
-==========================================================================================================================================
 
 Senior Undergraduate Student at NIT Tiruchirappalli, India
 ------------------------------------------
@@ -56,3 +55,6 @@ Senior Undergraduate Student at NIT Tiruchirappalli, India
 <a href="http://www.github.com/Srivatsan6923"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srivatsan6923&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Srivatsan6923"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Srivatsan6923&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Srivatsan6923/Srivatsan6923)
+
