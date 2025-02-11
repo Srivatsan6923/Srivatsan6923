@@ -1,13 +1,15 @@
 ### 👋 Hi there, I'm Srivatsan Sarvesan
-
-Senior Undergraduate Student at NIT Tiruchirappalli, India
 ------------------------------------------
+### 👨🏻‍💻 &nbsp;About Me
 
-* 🌍  I'm based in Chennai
-* ✉️  You can contact me at [srivatsan6923@gmail.com](mailto:srivatsan6923@gmail.com)
-* 🤝  I'm open to collaborating on Medical Image Processing, Signal Processing, Deep Learning, Computer Vision, NLP, Brain Computer Interfacing Research
+🌍  I'm currently based in Chennai, India\
+💡 &nbsp;I like to explore developments happening around AI in Healthcare, Multimodal fusion and AI Hardware.\
+🎓 &nbsp;I'm a Senior Undergraduate Student at NIT Tiruchirappalli, India.\
+💬 &nbsp;Feel free to reach out to me for any project contributions and Research Collaborations.\
+✉️ &nbsp;You can contact me at [srivatsan6923@gmail.com](mailto:srivatsan6923@gmail.com)\
+🤝 I'm open to collaborating on research projects at the intersection of Image Processing, Signal Processing, Deep Learning, 3D Computer Vision, LLM/VLM, and BCI.
 
-### Skills
+### 🛠 &nbsp;Tech Stack
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" />
@@ -42,7 +44,7 @@ Senior Undergraduate Student at NIT Tiruchirappalli, India
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
 </p>
 
-### Socials
+### ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left"> <a href="https://www.github.com/Srivatsan6923" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/srivatsan-sarvesan-b711a3223/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -53,4 +55,10 @@ Senior Undergraduate Student at NIT Tiruchirappalli, India
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Srivatsan6923&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Srivatsan6923&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align="center">
+  <a href="http://www.github.com/Srivatsan6923">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srivatsan6923&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 </p>
