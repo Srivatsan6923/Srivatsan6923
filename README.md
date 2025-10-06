@@ -2,11 +2,11 @@
 ------------------------------------------
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌍  I'm currently based in Chennai, India\
+🌍  I'm currently based in San Diego, USA\
 💡 &nbsp;I like to explore developments happening around AI in Healthcare, Multimodal fusion and AI Hardware.\
-🎓 &nbsp;I'm a Senior Undergraduate Student at NIT Tiruchirappalli, India.\
+🎓 &nbsp;I'm a Incoming Graduate Student at UC San Diego, USA\
 💬 &nbsp;Feel free to reach out to me for any project contributions and Research Collaborations.\
-✉️ &nbsp;You can contact me at [srivatsan6923@gmail.com](mailto:srivatsan6923@gmail.com)\
+✉️ &nbsp;You can contact me at [srivatsan6923@gmail.com](mailto:srivatsan6923@gmail.com) | [ssarvesan@ucsd.edu](mailto:ssarvesan@ucsd.edu)\
 🤝 I'm open to collaborating on research projects at the intersection of Image Processing, Signal Processing, Deep Learning, 3D Computer Vision, LLM/VLM, and BCI.
 
 ### 🛠 &nbsp;Tech Stack
