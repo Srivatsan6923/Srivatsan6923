@@ -27,7 +27,6 @@
 - 🧠 Researching autonomous AI agents with **[Prof. Pengtao Xie](https://pengtaoxie.github.io/)**
 - ⚡ Writing GPU kernels and benchmarking LLM inference across hardware
 - 🩺 Before that: medical imaging and surgical AI at **IIT Madras**, **A\*STAR Singapore** and **IISc Bengaluru**
-- 💬 Ask me why the fastest attention kernel on an H100 can lose on an L40S
 
 <br clear="right"/>
 
@@ -116,7 +115,7 @@ Video QA over surgeries that last hours. Qwen3-VL-8B + LoRA with a training-free
 <a href="https://github.com/Srivatsan6923/medgemma-failures"><img src="https://raw.githubusercontent.com/Srivatsan6923/medgemma-failures/main/figures/fig_b_deference.png" width="100%" alt="MedGemma deference"/></a>
 
 **[🩺 Where MedGemma-27B breaks](https://github.com/Srivatsan6923/medgemma-failures)**<br>
-Two pre-registered clinical failure modes. One line saying the attending "has confirmed" a wrong diagnosis **flips 34% of correct answers**. Every number reproduces in a minute, no GPU needed.
+Two pre-registered clinical failure modes. One line saying the attending "has confirmed" a wrong diagnosis **flips 34% of correct answers**. Fully reproducible on CPU.
 
 `LLM evaluation` `Clinical NLP`
 </td>
@@ -145,7 +144,7 @@ Wearable navigation aid for visually impaired users. Gemma 3n runs on the phone'
 <summary><b>More projects</b></summary>
 <br>
 
-- **[CONE](https://github.com/Srivatsan6923/cone-fault-recovery).** Fault propagation and recovery in multi-agent LLM workflows, with a provenance log that knows a sent email can't be undone.
+- **[CONE](https://github.com/Srivatsan6923/cone-fault-recovery).** Fault propagation and recovery in multi-agent LLM workflows, with a provenance log and fault-injection harness.
 - **[2D-to-3D coronary reconstruction](https://srivatsan6923.github.io/projects/2d-3d-recon/).** From biplane angiography at 0.42 mm mean error.
 - **[FusionDecompNet](https://srivatsan6923.github.io/projects/multimodal_alzheimer/).** Multimodal MRI + PET Alzheimer's diagnosis.
 - **[3D MRI super-resolution](https://srivatsan6923.github.io/projects/zsuperres/).** GANs vs. diffusion vs. CuNeRF.
