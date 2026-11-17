@@ -116,8 +116,8 @@ Video QA over surgeries that last hours. Qwen3-VL-8B + LoRA with a training-free
 <td width="50%" valign="top">
 <a href="https://github.com/Srivatsan6923/medgemma-failures"><img src="https://raw.githubusercontent.com/Srivatsan6923/medgemma-failures/main/figures/fig_b_deference.png" width="100%" alt="MedGemma deference"/></a>
 
-**[🩺 Where MedGemma-27B breaks](https://github.com/Srivatsan6923/medgemma-failures)**<br>
-Two pre-registered clinical failure modes. One line saying the attending "has confirmed" a wrong diagnosis **flips 34% of correct answers**. Fully reproducible on CPU.
+**[🩺 MedGemma-27B clinical failure modes](https://github.com/Srivatsan6923/medgemma-failures)**<br>
+Two pre-registered failures, confirmed on fresh data and compared against Gemma-3-27B and Llama-3.3-70B. **Medication reconciliation:** drops a continued home drug from **15%** of discharge lists (Gemma-3: 4%). **Diagnosis:** one line saying the attending "has confirmed" a wrong option flips **33.8%** of diagnoses it otherwise gets right.
 
 `LLM evaluation` `Clinical NLP`
 </td>
