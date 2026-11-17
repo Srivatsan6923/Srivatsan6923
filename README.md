@@ -19,6 +19,11 @@
   <a href="mailto:srivatsan6923@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_work-Full--time_from_January_2027-2EA44F?style=for-the-badge&labelColor=1A7F37" alt="Open to work: full-time from January 2027"/><br>
+  <sub>ML systems · LLM inference · agents · applied research</sub>
+</p>
+
 ## 👋 About me
 
 <img align="right" width="190" src="assets/avatar.png" alt="Illustrated portrait of Srivatsan"/>
@@ -29,9 +34,6 @@
 - 🩺 Before that: medical imaging and surgical AI at **IIT Madras**, **A\*STAR Singapore** and **IISc Bengaluru**
 
 <br clear="right"/>
-
-> [!TIP]
-> **Open to full-time roles from January 2027** in ML systems, LLM inference, agents, and applied research.
 
 ## 🧭 Experience
 
